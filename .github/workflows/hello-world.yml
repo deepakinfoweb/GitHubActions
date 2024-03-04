@@ -1,5 +1,4 @@
-name: 'Run test'
-permissions: 'Runs all the tests needed to validate the program'
+name: Run test
 
 on:
   push:
